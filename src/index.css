@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Playfair Display';
+  text-align: center;
+}
+
+.item-container{
+  display: flex;
+  justify-content: center;
+}
+
+.item-container div{
+  margin-top: 80px;
+}
